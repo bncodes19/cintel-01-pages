@@ -1,4 +1,4 @@
-# My Website Title 
+# Brett's Website
 
 My first website using Markdown and GitHub Pages.
 
@@ -6,11 +6,7 @@ My first website using Markdown and GitHub Pages.
 
 Here's a clickable link: [My favorite AI assistant](https://chat.openai.com/)
 
-## Images
-
-Images look like links except with an exclamation directly in front
-
-![My Shiny Image](https://raw.githubusercontent.com/denisecase/pyshiny-penguins-dashboard-express/main/images/LocalAppRunning.JPG)
+Here is my favorite data visualization site: [Visual Capitalist](https://www.visualcapitalist.com/)
 
 ## Reminders
 
